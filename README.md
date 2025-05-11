@@ -1,5 +1,3 @@
-Hell Scanner
-Overview
 Hell Scanner is an advanced network reconnaissance tool designed for tracking phone numbers, IP addresses, and scanning ports. Built with Python, it offers a user-friendly CLI for ethical use by network administrators or security professionals with permission to analyze targets.
 Features
 

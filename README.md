@@ -78,8 +78,7 @@ Submit a pull request.
 License
 MIT License (see LICENSE file).
 Author
-
-Zero
+Abhishek Mainali
 
 Disclaimer
 Provided "as is." The author is not liable for misuse. Use responsibly.
